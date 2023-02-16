@@ -1,0 +1,96 @@
+.container2{
+    background-color: #ffff;
+    width: 442px;
+    height: 470px;
+    position: relative;
+    bottom: 40px;
+    left: 850px;
+    border-radius: 10px;
+}
+.right1{
+    position: relative;
+    right: 109px;
+}
+.Name{ 
+    margin: 10px 0;
+    position: relative;
+    left: 122px;
+    top: 10px; 
+    font-size: 20px;
+}
+.Email{
+    margin: 10px 0;
+
+    position: relative;
+    left: 122px;
+    top: 10px; 
+    font-size: 20px;
+ 
+}
+.password{
+    margin: 10px 0px;
+    position: relative;
+    left: 122px;
+    top: 10px;   
+    font-size: 20px;
+  
+}
+.dropdown{
+    margin-top: 10px;
+    margin-left: 13px;
+}
+.submit{
+    margin-left: 11px;
+    margin-top: 212px;
+    width: 420px;
+    background-color: rgb(13, 157, 13);
+    border: none;
+    color: #ffff;
+    height: 50px;
+    border-radius: 5px;
+}
+.term{
+    position: relative;
+    top: 200px;
+    margin-left: 20px;
+    font-size: 14px;
+}
+.form-button{
+    width: 420px;
+    margin: 10px;
+    background: #B5B5B5;
+    box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.46);
+    border-radius: 2px;
+    padding: 10px;
+    border: none;
+    color: white;
+    font-weight: 700;
+    position: relative;
+    top: 200px;
+}
+
+.form-button-active{
+    width: 420px;
+    margin: 10px;
+    background: #37CC8A;
+    box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.46);
+    border-radius: 2px;
+    padding: 10px;
+    border: none;
+    color: white;
+    font-weight: 700;
+    position: relative;
+    top: 200px;
+}
+.form-header{
+    height: 40px;
+    width: 440px;
+    padding-top: 5px;
+    padding-left: 70px;
+background-color: blue;
+color: #ffff;
+position: relative;
+left: 850px;
+bottom: 50px;
+border-radius: 10px;
+}

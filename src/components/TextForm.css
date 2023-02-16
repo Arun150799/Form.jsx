@@ -1,0 +1,27 @@
+body{
+    background-color: #78AEFF;
+}
+.heading{
+    width: 334px;
+    color: #FFFFFF;
+    position: relative;
+    top: 75px;
+    left: 190px;
+}
+.left{
+    margin: 0;
+    position: relative;
+    top: 100px;
+    left: 190px;
+    width: 490px;
+    word-spacing: 5px;
+    color: #FFFFFF;
+}
+.container1{
+    position: relative;
+    top: 150px;
+}
+p{
+    margin-bottom: 0px;
+    margin-top: 0;
+}

@@ -1,0 +1,57 @@
+.skill{
+    width: 334px;
+    background-color: #fff;
+    border: 1px solid #fff;
+position: relative;
+right: 10px;
+}
+.input-skill{
+    border: 1px;
+    width: 100%;
+    min-width: 50px;
+    font-size: 20px;
+
+}
+.container{
+    position: relative;
+    bottom: 340px;
+    left: 750px;
+}
+.input-skill:focus{
+    outline: none;
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+ul li{
+    align-items: center;
+    background-color: rgb(98, 161, 216);
+    border-radius: 2px;
+    list-style: none;
+    margin: 5px;
+    padding: 5px;
+    
+}
+ul li button{
+    align-items: center;
+    background-color: rgb(187, 191, 195);
+    color: #cc1111;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    height: 15px;
+    width: 15px;
+    font-size: 15px;
+    margin-left: 8px;
+    display:inline-flex;
+    justify-content: center;
+    transform: rotate(45deg);
+}
+ul .input-skill{
+    background: none;
+    flex-grow: 1;
+}
